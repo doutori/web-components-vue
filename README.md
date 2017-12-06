@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Sample Demo
+
+https://doutori.github.io/web-components-vue/
+
 ## Build Setup
 
 ``` bash
