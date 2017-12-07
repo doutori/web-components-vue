@@ -1,5 +1,5 @@
 <template>
-  <button @click="alert">
+  <button @click="click">
     <slot></slot>
   </button>
 </template>
@@ -8,7 +8,7 @@
 export default {
   name: 'button-red',
   methods: {
-    alert() {
+    click() {
       this.$emit('click');
     }
   }
